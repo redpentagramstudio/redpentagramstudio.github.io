@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Red Pentagram Studio</title>
+    <link>http://yoursite.com/</link>
+    
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Thu, 06 Feb 2020 11:41:45 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Fig Campaign</title>
+      <link>http://yoursite.com/2020/02/06/Fig%20Campaign/</link>
+      <guid>http://yoursite.com/2020/02/06/Fig%20Campaign/</guid>
+      <pubDate>Thu, 06 Feb 2020 11:26:50 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;As of now we are working hard at creating a trailer for Goblin Insurrection for our planned Fig campaign! For myself, its mostly catering
+        
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<p>As of now we are working hard at creating a trailer for Goblin Insurrection for our planned Fig campaign! For myself, its mostly catering to the required animations and assets required, while Daniel is grinding away at creating the environments, timings, camera pans etc.</p><p>Meanwhile, in Sweden, Johann Strauss is composing a very crisp cinematic track. If all goes as planned, the campaign will launch somewhere in the middle of March, but the trailer will be available here in just a few days!</p><p>It is really satisfying to see Goblin Insurrection take shape, and adding music to the visuals especially fuels the development!</p><p>Until next week, have some Goblin propaganda!</p><p><img src="/images/propaganda.png" alt="alt"></p>]]></content:encoded>
+      
+      <comments>http://yoursite.com/2020/02/06/Fig%20Campaign/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Blog is Live!</title>
+      <link>http://yoursite.com/2020/01/28/post/</link>
+      <guid>http://yoursite.com/2020/01/28/post/</guid>
+      <pubDate>Tue, 28 Jan 2020 05:01:29 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;Welcome! You have stumbled across the development log for Red Pentagram Studio. If this is at the top of the page, this means you are spe
+        
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<p>Welcome! You have stumbled across the development log for Red Pentagram Studio. If this is at the top of the page, this means you are special to us, and should give yourself a tap on the shoulder!<br>We make games! :)<br>As of now, we are hard at work on Goblin Insurrection, a puzzler game inspired by Lemmings, and Zelda. Our first title, Dantes Bullet Inferno is anxiously resting on the shelf as administrative tasks prove a bottleneck for us, although we will be pushing it to Steam in the near future!</p><p>We hope to post here at least weekly. We certainly hope you find it interesting!</p>]]></content:encoded>
+      
+      <comments>http://yoursite.com/2020/01/28/post/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
