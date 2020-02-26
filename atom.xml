@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-14T08:14:07.110Z</updated>
+  <updated>2020-02-26T08:58:03.346Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Status Update</title>
+    <link href="http://yoursite.com/2020/02/26/Status-Update/"/>
+    <id>http://yoursite.com/2020/02/26/Status-Update/</id>
+    <published>2020-02-26T08:49:17.000Z</published>
+    <updated>2020-02-26T08:58:03.346Z</updated>
+    
+    <content type="html"><![CDATA[<p>So, the commitment to make a blog each week is, apparently lower than developing our game…</p><p>Anyways, i thought i would post a quick newsflash!</p><p>Our trailer is almost, almost done! This sunday Johann Strauss delivered a tasty track, complete with sfx, and as everything came together we noticed a few things which needed to be adressed. We decided to make things go faster, and also make some improvements to our goblin model.</p><p>You can see the result for yourself :)</p><p><img src="/images/before-after.png" alt="alt"><br>The right picture is the after picture..</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;So, the commitment to make a blog each week is, apparently lower than developing our game…&lt;/p&gt;
+&lt;p&gt;Anyways, i thought i would post a quick
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>About the Game!</title>
