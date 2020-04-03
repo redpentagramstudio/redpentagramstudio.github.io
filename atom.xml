@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-16T05:07:08.359Z</updated>
+  <updated>2020-04-03T12:00:08.211Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Daniel showcases a silent Insurrection!</title>
+    <link href="http://yoursite.com/2020/04/03/Daniel-showcases-a-silent-Insurrection/"/>
+    <id>http://yoursite.com/2020/04/03/Daniel-showcases-a-silent-Insurrection/</id>
+    <published>2020-04-03T11:52:21.000Z</published>
+    <updated>2020-04-03T12:00:08.211Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hey everybody!</p><p>Turns out that social distance is good for game development, who would have thought?! After the last video we set a goal to make the game playable ASAP, with all the mechanics we wanted in fully realised and feeling good. This is the result!</p><p>Video is Daniel showcasing a very silent Goblin Insurrection, we have yet to add SFX and music. Like and subscribe.. LIKE AND SUBSCRIBE!!</p><div class="video-container"><iframe   src=https://www.youtube.com/embed/IaeoKp5U5Qw frameborder=0 gesture=media allow=encrypted-media allowfullscreen></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hey everybody!&lt;/p&gt;
+&lt;p&gt;Turns out that social distance is good for game development, who would have thought?! After the last video we set a
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Trailer is here!</title>
