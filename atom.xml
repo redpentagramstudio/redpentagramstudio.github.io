@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-06T05:23:00.849Z</updated>
+  <updated>2020-04-20T17:49:45.123Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LD46 - Stove Man</title>
+    <link href="http://yoursite.com/2020/04/21/LD46-Stove-Man/"/>
+    <id>http://yoursite.com/2020/04/21/LD46-Stove-Man/</id>
+    <published>2020-04-20T17:37:49.000Z</published>
+    <updated>2020-04-20T17:49:45.123Z</updated>
+    
+    <content type="html"><![CDATA[<p>So, this weekend me and mr Daniel has been working like nothing else, due to Ludum Dare 46! For you who are not aquinted with the LD game jam, check out <span class="external-link"><a   href="https://ldjam.com/"  target="_blank" rel="noopener">Their website</a><i class="fa fa-external-link"></i></span></p><p>The theme for LD 46 was “Keep it alive”, which means that our game had to fit this theme mechanically. Dan remembered the old swedish comedy bit “Kaminmannen” (Stove Man), and away we went!</p><p>We had 72 hours to complete this game, from scratch (although we cheated just abit with some open source sound effects). We made a physics based game in Unity, which we tough in itself, and I had to apply my newly aquired music production skills, which are, by the way, not really up to par…<br>The only things which proceeded proper smooth was the modelling.</p><p>If you guys want to try out our 72 hours disasterpiece of a game, you can find it for free at <span class="external-link"><a   href="https://redpentagram.itch.io/stove-man"  target="_blank" rel="noopener">Itch.io</a><i class="fa fa-external-link"></i></span>!</p><p><img src="/images/cover2.png" alt="alt"></p><p>By the way. To you folks who volunteered for testing Goblin Insurrection, we have not forgotten you! It is taking more time than expected to make a playable (and enjoyable) demo. Hang tight, we will revisit this soon!</p><p>Until next time, stay safe!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;So, this weekend me and mr Daniel has been working like nothing else, due to Ludum Dare 46! For you who are not aquinted with the LD game
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Testers Wanted!</title>
